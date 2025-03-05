@@ -1,6 +1,19 @@
-# House Price Prediction Model
+# 🏡 House Price Prediction
 
-Aim:Implement a linear regression model to predict the price of the price of the house based on their square footage and the number of bedrooms and bathrooms
+This project implements a House Price Prediction model using Linear Regression. The goal is to predict house prices based on features such as square footage, number of bedrooms, etc.
 
-I have used python language for creating this linear regression model to predict the price of the house on the bases of the mentioned criteria.
-I have doen this task with the help of python library and there inbuilt functions and methods.
+# 🚀 Features
+✅ Simple Linear Regression & Multiple Linear Regression
+✅ Data Preprocessing (handling missing values, feature scaling)
+✅ Model Training & Evaluation
+✅ Visualization of Results using Matplotlib & Seaborn
+
+# 📂 Tech Stack
+- Python 🐍
+- Pandas & NumPy (Data Handling)
+- Scikit-Learn (Machine Learning)
+- Matplotlib & Seaborn (Data Visualization)
+
+# 🔧 How to Run
+
+You can run it in Jupiter Notebook
