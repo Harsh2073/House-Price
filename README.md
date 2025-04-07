@@ -4,8 +4,11 @@ This project implements a House Price Prediction model using Linear Regression. 
 
 # 🚀 Features
 ✅ Simple Linear Regression & Multiple Linear Regression
+
 ✅ Data Preprocessing (handling missing values, feature scaling)
+
 ✅ Model Training & Evaluation
+
 ✅ Visualization of Results using Matplotlib & Seaborn
 
 # 📂 Tech Stack
